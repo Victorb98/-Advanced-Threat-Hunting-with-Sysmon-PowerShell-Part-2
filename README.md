@@ -7,15 +7,15 @@ Through real-world investigation data, I correlated event logs (IDs 3, 10, 13) t
 
 **⚙️ Tools & Tech**
 
-🪟 Windows PowerShell — advanced event filtering and log parsing
+🪟 Windows PowerShell, advanced event filtering and log parsing
 
-🧩 Sysmon (System Monitor) — tracking process, registry, and network activity
+🧩 Sysmon (System Monitor), tracking process, registry, and network activity
 
-🧠 Event Viewer / EVTX Log Analysis — visual validation of suspicious events
+🧠 Event Viewer / EVTX Log Analysis, visual validation of suspicious events
 
-🧰 Windows Registry — persistence detection
+🧰 Windows Registry, persistence detection
 
-💻 TryHackMe: Sysmon Room — simulated enterprise SOC scenario
+💻 TryHackMe: Sysmon Room, simulated enterprise SOC scenario
 
 **🗂️ Features**
 ✅ Detection of suspicious registry-based payloads
