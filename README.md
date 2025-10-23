@@ -3,7 +3,7 @@
 **🧠 Summary / What It Does**
 
 This phase continues my hands-on forensic analysis using Sysmon and PowerShell, diving deeper into registry-based payloads, process access analysis, and adversary network communication.
-Through real-world investigation data, I correlated event logs (IDs 3, 10, 13) to uncover persistence, lateral movement, and command-and-control (C2) behaviour — the kind that slips past surface-level monitoring.
+Through real-world investigation data, I correlated event logs (IDs 3, 10, 13) to uncover persistence, lateral movement, and command-and-control (C2) behaviour,  the kind that slips past surface-level monitoring.
 
 **⚙️ Tools & Tech**
 
