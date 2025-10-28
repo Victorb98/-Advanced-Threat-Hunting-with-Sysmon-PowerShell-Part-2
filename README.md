@@ -118,7 +118,7 @@ PowerShell Get-WinEvent Reference
 
 **🙌 Credits / Acknowledgements**
 
-Massive thanks to TryHackMe for the investigation scenarios and Sysinternals for Sysmon — a defender’s best friend when it comes to visibility and telemetry.
+Massive thanks to TryHackMe for the investigation scenarios and Sysinternals for Sysmon, a defender’s best friend when it comes to visibility and telemetry.
 
 This project showcases real-world endpoint forensics and how detailed event logs can expose stealthy attacker behaviour.
 Part 2 highlights the bridge between registry persistence, PowerShell abuse, and C2 activity tracking.
