@@ -18,10 +18,15 @@ Through real-world investigation data, I correlated event logs (IDs 3, 10, 13) t
 💻 TryHackMe: Sysmon Room, simulated enterprise SOC scenario
 
 **🗂️ Features**
+
 ✅ Detection of suspicious registry-based payloads
-✅ Analysis of process access (Event ID 10) — privilege misuse and credential theft attempts
+
+✅ Analysis of process access (Event ID 10), privilege misuse and credential theft attempts
+
 ✅ Mapping of network traffic to adversary C2 servers
+
 ✅ Identification of encoded PowerShell persistence mechanisms
+
 ✅ Reinforcement of threat-hunting logic via multi-event correlation
 
 **🧩 Investigation Walkthrough
